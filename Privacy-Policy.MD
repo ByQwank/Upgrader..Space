@@ -1,0 +1,7 @@
+Upgrader.Space proxies requests via standard HTTP proxies. Due to the secure HTTPS connection between you and the intended websites, traffic cannot be read or intercepted by proxies during transmission. However, the domain name of the accessed websites may be visible to the proxies involved in the process.
+
+Upgrader.Space includes default proxies that route requests through several optimized, ad-free regions. To maintain transparency, we inform you that these default proxies may temporarily log IP addresses for up to 24 hours. This practice helps prevent abuse and ensures the integrity of the proxy service. Rest assured, these default proxies do not share logged data with any third parties, prioritizing the privacy and security of our users.
+
+While we strive to provide a secure and reliable platform, we cannot control or monitor the actions of user-supplied HTTP proxies. Each proxy may have its own policies and practices regarding data collection, storage, and usage. We recommend reviewing the privacy policies or terms of service of these proxies to understand how they handle your information.
+
+By default, the Upgrader.Space extension logs any ads that bypass the ad-blocker. This log is stored locally and can be cleared or disabled in the extension options. You have complete control over this log and may choose to share it with us for analysis or keep it private. No personally identifiable information is collected through the log. Additionally, log entries are automatically deleted after 7 days to minimize data storage and ensure privacy.
